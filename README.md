@@ -1,2 +1,3 @@
 # Projects
-Just my personal + school coding projects!
+
+Currently undergoing renovation. Please visit back later!
